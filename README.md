@@ -2,7 +2,7 @@
 
 Hello everyone\! 👋
 
-Let me introduce myself, I'm **Eki Zulfar Rachman**. On this occasion, I'd like to share the portfolio website project that I've developed.
+Let me introduce myself, I'm **Muhammad Fathin Ainul Abyan**. On this occasion, I'd like to share the portfolio website project that I've developed.
 
 ## 🚀 Live Demo
 
@@ -35,8 +35,8 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
-cd Portofolio_V5
+git clone https://github.com/BiyanNotHuman/portfolio-biyannn.git
+cd portfolio-biyannn
 ```
 
 ### 2\. Install Dependencies
@@ -177,7 +177,7 @@ VALUES ('REPLACE_WITH_YOUR_CERTIFICATE_IMAGE_URL.png');
 
 -- Insert one example comment
 INSERT INTO public.portfolio_comments (content, user_name) 
-VALUES ('Created By Eki Zulfar Rachman', 'ekizr');
+VALUES ('Created By Muhammad Fathin Ainul Abyan', 'biyannn');
 
 ```
 
@@ -233,15 +233,5 @@ If you encounter issues while running the project:
 
 We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
 
-## 📞 Contact
-
-If you have any questions or need help with the setup, feel free to reach out\!
-
-**Eki Zulfar Rachman**
-
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
-
------
 
 ⭐ If this project helped you, please consider giving it a star on GitHub\!
